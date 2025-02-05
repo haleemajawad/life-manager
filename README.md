@@ -1,2 +1,3 @@
 # life-manager
-my first personal project using javafx 
+my first personal project using javafx and java
+
